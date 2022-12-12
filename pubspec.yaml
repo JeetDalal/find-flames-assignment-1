@@ -71,6 +71,12 @@ flutter:
     - assets/search.png
     - assets/settings.png
     - assets/verified.png
+    - assets/james.png
+    - assets/tim.png
+    - assets/jordan.png
+    - assets/status1.png
+    - assets/status2.png
+    - assets/status3.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

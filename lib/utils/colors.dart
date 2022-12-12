@@ -12,4 +12,8 @@ const bgColor = Color(0xffFFF6FA);
 
 //bottom Navigation shadow
 final bottomNavigationShadow = BoxShadow(
-    color: Color(0xff000000).withOpacity(0.25), offset: Offset(0, -0.02));
+  color: Colors.black.withOpacity(0.15),
+  offset: const Offset(0, -0.02),
+  blurRadius: 4,
+  spreadRadius: 0,
+);
